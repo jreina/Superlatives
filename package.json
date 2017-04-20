@@ -2,10 +2,10 @@
   "name": "superlatives",
   "version": "1.0.0",
   "description": "Randomly generate a superlative that Johnny might use conversationally.",
-  "main": "index.js",
+  "main": "index.es6",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.es6"
   },
   "repository": {
     "type": "git",
