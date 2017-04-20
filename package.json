@@ -1,0 +1,19 @@
+{
+  "name": "superlatives",
+  "version": "1.0.0",
+  "description": "Randomly generate a superlative that Johnny might use conversationally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreina/Superlatives.git"
+  },
+  "author": "Johnny Reina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jreina/Superlatives/issues"
+  },
+  "homepage": "https://github.com/jreina/Superlatives#readme"
+}
