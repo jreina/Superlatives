@@ -2,7 +2,7 @@
 
 const o = 'most';
 const v = 0;
-const fe = [ 'beautiful', 'excellent', 'wonderful', 'impeccable', 'incredible' ];
+const fe = [ 'beautiful', 'excellent', 'wonderful', 'impeccable', 'incredible', 'covfefe' ];
 const f = fe.length;
 const e = ' ';
 
