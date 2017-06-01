@@ -1,10 +1,10 @@
 'use strict';
 
-const up = 'most';
-const er = 0;
-const ve = [ 'beautiful', 'excellent', 'wonderful', 'impeccable', 'incredible' ];
-const la = ve.length;
-const ti = ' ';
+const o = 'most';
+const v = 0;
+const fe = [ 'beautiful', 'excellent', 'wonderful', 'impeccable', 'incredible' ];
+const f = ve.length;
+const e = ' ';
 
-const s = v => w => x => y => z => v + y + z[Math.floor(Math.random()*(w-x+1)+x)];
-console.log(s(up)(er)(la)(ti)(ve));
+const c = v => w => x => y => z => v + y + z[Math.floor(Math.random()*(w-x+1)+x)];
+console.log(c(o)(v)(f)(e)(fe));
